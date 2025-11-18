@@ -1,7 +1,7 @@
 # EXPERIMENT 01 ALP FOR FUNDAMENTAL ARITHMETIC AND LOGICAL OPERATIONS
-# Name : PRALAYAKAVERI RAJA
-# Roll no: 212224230202
-# Date of experiment : 17-11-2025
+# Name : YUVARAJ M
+# Roll no: 212224040377
+# Date of experiment : 18-11-2025
 
 ## Aim: To Write and execute ALP for fundamental arithmetic and logical operations
 ## Components required: 8086  emulator 
